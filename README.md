@@ -1,6 +1,6 @@
 # fNIRS Optode Layout Designer (fOLD)
                         
-by: Guilherme A. Zimeo Morais (NIRx GmbH), Joana Bisol Balardin (UFABC) and João Ricardo Sato (UFABC)
+(c) Guilherme A. Zimeo Morais (NIRx GmbH), Joana Bisol Balardin (UFABC) and João Ricardo Sato (UFABC)
 
 This toolbox allows for layout design based on anatomical landmarks based on five parcellation methods.  
 Alternatively, one can also load an image (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
@@ -67,7 +67,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 ******************************************************************************************
 
-The authors of fOLD would also like to acknowledge the importance of following publicly available tools for its methods development:
+The authors would also like to acknowledge the importance of following publicly available tools for fOLD development:
 
 AtlasViewer (by Boas et al.): http://dx.doi.org/10.1117/1.NPh.2.2.020801
 
