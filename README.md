@@ -1,23 +1,25 @@
 # fNIRS Optode Layout Designer (fOLD)
                         
+by: Guilherme A. Zimeo Morais (NIRx GmbH), Joana Bisol Balardin (UFABC) and João Ricardo Sato (UFABC)
+
 This toolbox allows for layout design based on anatomical landmarks based on five parcellation methods.  
 Alternatively, one can also load an image (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
 
-Before using fOLD, please carefully read the related manuscript:
+Before using fOLD, please carefully read its related manuscript: 
 Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optode Layout Designer (fOLD): a toolbox
 for fNIRS optodes arrangement as optimized by regions of interest" (in preparation)
 
-fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe
+fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe 
 or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
 
-*Important Copyright-related notes*: 
+*Important Copyright-related guidelines for fOLD*: 
 1) fOLD is provided "as is" with no warranties and subject to change.
-2) The software shall not be redistributed to anyone without authorization.
-3) The aforementioned paper must be referenced if using fOLD toolbox.
+2) The software shall not be redistributed without authorization.
+3) The aforementioned paper should be referenced if using fOLD.
 
 ![fOLD](/Icon.png?raw=true)
 
-Please read and cite the publications related to the atlases, from which the results are derived:
+Please also read and cite the publications related to the atlases, from which the results are derived:
 
 AAL2: http://dx.doi.org/10.1016/j.neuroimage.2015.07.075  
       http://dx.doi.org/10.1006/nimg.2001.0978
