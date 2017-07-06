@@ -4,15 +4,18 @@ This toolbox allows for layout design based on anatomical landmarks based on fiv
 Alternatively, one can also load an image (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
 
 Before using fOLD, please carefully read the related manuscript:
-Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optode Layout Designer (fOLD): a toolbox 
+Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optode Layout Designer (fOLD): a toolbox
 for fNIRS optodes arrangement as optimized by regions of interest" (in preparation)
 
 fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe
 or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
 
-Please note that fOLD is provided "as is" with no warranties and subject to change.	   
+*Important Copyright-related notes*: 
+1) fOLD is provided "as is" with no warranties and subject to change.
+2) The software shall not be redistributed to anyone without authorization.
+3) The aforementioned paper must be referenced if using fOLD toolbox.
 
-![fOLD](/Icon.PNG?raw=true)
+![fOLD](/Icon.png?raw=true)
 
 Please read and cite the publications related to the atlases, from which the results are derived:
 
@@ -34,7 +37,7 @@ Colin27: https://doi.org/10.1016/S1053-8119(96)80030-9
 SPM12 (TPM.nii): https://github.com/neurodebian/spm12/blob/master/spm_templates.man
 
 
-fOLD also makes use of "Tools for NIfTI and ANALYZE image" (by Jimmy Shen):
+fOLD also makes use of "Tools for NIfTI and ANALYZE image" (Jimmy Shen) under following copyright:
 ******************************************************************************************
 Copyright (c) 2014, Jimmy Shen 
 All rights reserved.
@@ -62,7 +65,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 ******************************************************************************************
 
-The authors of fOLD would also like to acknowledge following publicly available tools:
+The authors of fOLD would also like to acknowledge the importance of following publicly available tools for its methods development:
 
 AtlasViewer (by Boas et al.): http://dx.doi.org/10.1117/1.NPh.2.2.020801
 
