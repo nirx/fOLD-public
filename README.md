@@ -6,8 +6,8 @@ This toolbox allows for layout design based on anatomical landmarks based on fiv
 Alternatively, one can also load an image (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
 
 Before using fOLD, please carefully read its related manuscript: 
-Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optode Layout Designer (fOLD): a toolbox
-for fNIRS optodes arrangement as optimized by regions of interest" (in preparation)
+Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optode Layout Designer (fOLD): 
+a toolbox for probe arrangement guided by brain regions-of-interest" (Under review)
 
 fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe 
 or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
@@ -19,7 +19,7 @@ or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
 
 ![fOLD](/Icon.png?raw=true)
 
-Please also read and cite the publications related to the atlases, from which the results are derived:
+Please make sure to read and cite the publications related to the parcellation atlases, from which the results are derived:
 
 AAL2: http://dx.doi.org/10.1016/j.neuroimage.2015.07.075  
       http://dx.doi.org/10.1006/nimg.2001.0978
@@ -28,9 +28,12 @@ AICHA: http://dx.doi.org/10.1016/j.jneumeth.2015.07.013
 
 Brodmann: http://doi.org/10.1155/2000/421719
 
-Jülich: https://doi.org/10.1016/j.neuroimage.2004.12.034  
-        https://doi.org/10.1016/j.neuroimage.2006.04.204  
-        https://doi.org/10.1016/j.neuroimage.2007.03.060
+Jülich*: https://doi.org/10.1016/j.neuroimage.2004.12.034  
+         https://doi.org/10.1016/j.neuroimage.2006.04.204  
+         https://doi.org/10.1016/j.neuroimage.2007.03.060
+*: Please also cite the individual (cytoarchitectonic) mapping papers for the selected structures. 
+A full list of references for individual areal is available in the following link:
+http://www.fz-juelich.de/inm/inm-1/EN/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html
 
 LONI: https://doi.org/10.1016/j.neuroimage.2007.09.031
 
