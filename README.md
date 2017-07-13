@@ -17,25 +17,33 @@ or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
 
 Please make sure to read and cite the publications related to the parcellation atlases, from which the results are derived:
 
-AAL2: http://dx.doi.org/10.1016/j.neuroimage.2015.07.075  
-      http://dx.doi.org/10.1006/nimg.2001.0978
+AAL2: 
+* Rolls ET, Joliot M, Tzourio-Mazoyer N (2015) Implementation of a new parcellation of the orbitofrontal cortex in the automated anatomical labeling atlas. Neuroimage. http://dx.doi.org/10.1016/j.neuroimage.2015.07.075  
+* Tzourio-Mazoyer N, Landeau B, Papathanassiou D, Crivello F, Etard O, Delcroix N, Mazoyer B, Joliot M (2002) 
+Automated anatomical labelling of activations in spm using a macroscopic anatomical parcellation of the MNI MRI single subject brain. Neuroimage 15:273-289. http://dx.doi.org/10.1006/nimg.2001.0978
 
-AICHA: http://dx.doi.org/10.1016/j.jneumeth.2015.07.013
+AICHA:
+* Joliot M, Jobard G, Naveau M, Delcroix N, Petit L, Zago L, Crivello F, Mellet E, Mazoyer B, Tzourio-Mazoyer N (2015) 
+AICHA: An atlas of intrinsic connectivity of homotopic areas. J Neurosci Methods 254:46-59. http://dx.doi.org/10.1016/j.jneumeth.2015.07.013
 
-Brodmann: http://doi.org/10.1155/2000/421719
+Brodmann: 
+* Rorden C and Brett M (2000) Stereotaxic Display of Brain Lesions. Behavioural Neurology 12(4):191-200. http://doi.org/10.1155/2000/421719
 
-Jülich*: https://doi.org/10.1016/j.neuroimage.2004.12.034  
-         https://doi.org/10.1016/j.neuroimage.2006.04.204  
-         https://doi.org/10.1016/j.neuroimage.2007.03.060
-*: Please also cite the individual (cytoarchitectonic) mapping papers for the selected structures. 
-A full list of references for individual areal is available in the following link:
-http://www.fz-juelich.de/inm/inm-1/EN/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html
+Jülich: 
+* Eickhoff SB et al. (2005) A new SPM toolbox for combining probabilistic cytoarchitectonic maps and functional imaging data. NeuroImage 25, 1325–1335 https://doi.org/10.1016/j.neuroimage.2004.12.034  
+* Eickhoff SB et al. (2006) Testing anatomically specified hypotheses in functional imaging using cytoarchitectonic maps. NeuroImage 32, 570–582 https://doi.org/10.1016/j.neuroimage.2006.04.204  
+* Eickhoff SB et al. (2007) Assignment of functional activations to probabilistic cytoarchitectonic areas revisited. NeuroImage 36, 511–521 https://doi.org/10.1016/j.neuroimage.2007.03.060     
+* Please also cite the individual (cytoarchitectonic) mapping papers for the selected structures. A full list of references for individual areal is available in the following link: http://www.fz-juelich.de/inm/inm-1/EN/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html
 
-LONI: https://doi.org/10.1016/j.neuroimage.2007.09.031
+LONI: 
+* Shattuck DW et al. (2008) Construction of a 3D probabilistic atlas of human cortical structures. NeuroImage 39, 1064–1080 https://doi.org/10.1016/j.neuroimage.2007.09.031
 
-Colin27: https://doi.org/10.1016/S1053-8119(96)80030-9
+Colin27: 
+* Holmes CJ et al. (1998) Enhancement of MR Images Using Registration for Signal Averaging: J. Comput. Assist. Tomogr. 22, 324–333 https://doi.org/10.1016/S1053-8119(96)80030-9
 
-SPM12 (TPM.nii): https://github.com/neurodebian/spm12/blob/master/spm_templates.man
+SPM12 (TPM.nii): 
+* Description: https://github.com/neurodebian/spm12/blob/master/spm_templates.man
+* IXI Dataset: http://brain-development.org/ixi-dataset/
 
 
 fOLD also makes use of "Tools for NIfTI and ANALYZE image" (Jimmy Shen) under following copyright:
