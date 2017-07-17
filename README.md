@@ -4,7 +4,7 @@ This toolbox allows for layout design based on anatomical landmarks based on fiv
 Alternatively, one can also load volumetric fMRI data (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
 
 Before using fOLD, please carefully read its related manuscript: 
-* "Automatic probe arrangement for brain optical imaging" (Under Review)
+* Zimeo Morais GA, Balardin JB, Sato JR (2017) fNIRS Optode Layout Designer (fOLD): a toolbox for probe arrangement guided by brain regions-of-interest (Under Review)
 
 fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe 
 or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall
