@@ -39,6 +39,9 @@ AICHA: An atlas of intrinsic connectivity of homotopic areas. J Neurosci Methods
 
 **LONI** (http://loni.usc.edu/atlases/Atlas_Detail.php?atlas_id=12): 
 * Shattuck DW et al. (2008) Construction of a 3D probabilistic atlas of human cortical structures. NeuroImage 39, 1064–1080 https://doi.org/10.1016/j.neuroimage.2007.09.031
+  
+  
+And following are the two head atlases that were considered for tissue segmentation and photon transport simulations:  
 
 **Colin27** (http://www.bic.mni.mcgill.ca/ServicesAtlases/Colin27): 
 * Holmes CJ et al. (1998) Enhancement of MR Images Using Registration for Signal Averaging: J. Comput. Assist. Tomogr. 22, 324–333 https://doi.org/10.1016/S1053-8119(96)80030-9
