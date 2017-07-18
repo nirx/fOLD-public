@@ -38,6 +38,7 @@ AICHA: An atlas of intrinsic connectivity of homotopic areas. J Neurosci Methods
 * Please also cite the individual (cytoarchitectonic) mapping papers for the selected structures. A full list of references for individual areal is available in Jülich's website referenced above.
 
 **LONI** (http://loni.usc.edu/atlases/Atlas_Detail.php?atlas_id=12): 
+* Courtesy of Arthur W. Toga, Ph.D., USC Laboratory of Neuro Imaging, USC Mark and Mary Stevens Neuroimaging and Informatics Institute - <www.loni.usc.edu>
 * Shattuck DW et al. (2008) Construction of a 3D probabilistic atlas of human cortical structures. NeuroImage 39, 1064–1080 https://doi.org/10.1016/j.neuroimage.2007.09.031
   
   
