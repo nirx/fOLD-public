@@ -7,7 +7,7 @@ Before using fOLD, please carefully read its related manuscript:
 * Zimeo Morais GA, Balardin JB, Sato JR (2017) fNIRS Optode Layout Designer (fOLD): a toolbox for probe arrangement guided by brain regions-of-interest (Under Review)
 
 fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe   
-| or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall  
+or as App to be installed within Matlab2017a: /App/fOLD.mlappinstall  
 
 **Important Copyright-related guidelines for fOLD**: 
 1) fOLD is provided "as is" with no warranties and subject to change.
@@ -44,9 +44,9 @@ AICHA: An atlas of intrinsic connectivity of homotopic areas. J Neurosci Methods
 * Holmes CJ et al. (1998) Enhancement of MR Images Using Registration for Signal Averaging: J. Comput. Assist. Tomogr. 22, 324–333 https://doi.org/10.1016/S1053-8119(96)80030-9
 
 **SPM12** (TPM.nii - https://github.com/neurodebian/spm12/blob/master/spm_templates.man): 
-* IXI Dataset: http://brain-development.org/ixi-dataset/
-|  
-|  
+* IXI Dataset: http://brain-development.org/ixi-dataset/  
+    
+    
 fOLD also makes use of "Tools for NIfTI and ANALYZE image" (Jimmy Shen) under following copyright:
 ******************************************************************************************
 Copyright (c) 2014, Jimmy Shen 
