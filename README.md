@@ -1,10 +1,10 @@
-# fNIRS Optode Layout Designer (fOLD)
+# fNIRS Optodes' Location Decider (fOLD)
 
-This toolbox allows for layout design based on anatomical landmarks based on five parcellation methods.  
-Alternatively, one can also load volumetric fMRI data (NIfTI or ANALYZE) as mask for the fNIRS optode layout.
+This toolbox allows for optode arrangement based on anatomical landmarks based on five parcellation methods.  
+Alternatively, one can also load volumetric fMRI data (NIfTI or ANALYZE) as mask for the fNIRS optodes positions.
 
 Before using fOLD, please carefully read its related manuscript: 
-* Zimeo Morais GA, Balardin JB, Sato JR (2017) fNIRS Optode Layout Designer (fOLD): a toolbox for probe arrangement guided by brain regions-of-interest
+* Zimeo Morais GA, Balardin JB, Sato JR, "fNIRS Optodes' Location Decider (fOLD): a toolbox for probe arrangement guided by brain regions-of-interest"
 
 fOLD is available as standalone for Windows (*.exe): /Exe/fOLD_web.exe   
 or as Application for Matlab environment: /App/fOLD.mlappinstall   
